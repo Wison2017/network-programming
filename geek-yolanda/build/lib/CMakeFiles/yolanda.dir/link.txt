@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libyolanda.a  CMakeFiles/yolanda.dir/log.c.o CMakeFiles/yolanda.dir/sock_ntop.c.o CMakeFiles/yolanda.dir/read.c.o CMakeFiles/yolanda.dir/tcp_server.c.o CMakeFiles/yolanda.dir/tcp_client.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libyolanda.a
