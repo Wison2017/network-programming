@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/wison/Desktop/网络编程/unix-network-programming/chapter3
+CMAKE_SOURCE_DIR = /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/chapter3.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/unix-network-programming/ch
 CMakeFiles/chapter3.dir/all:
 	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/depend
 	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target chapter3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target chapter3"
 .PHONY : CMakeFiles/chapter3.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/chapter3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/chapter3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles 5
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/chapter3.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/chapter3.dir/rule
 
 # Convenience name for target.
