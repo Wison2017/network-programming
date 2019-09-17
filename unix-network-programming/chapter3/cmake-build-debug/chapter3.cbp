@@ -83,6 +83,9 @@
 		<Unit filename="/Users/wison/Desktop/网络编程/unix-network-programming/chapter3/byteorder.c">
 			<Option target="chapter3"/>
 		</Unit>
+		<Unit filename="/Users/wison/Desktop/网络编程/unix-network-programming/chapter3/homework3.3.c">
+			<Option target="chapter3"/>
+		</Unit>
 		<Unit filename="/Users/wison/Desktop/网络编程/unix-network-programming/chapter3/readline1.c">
 			<Option target="chapter3"/>
 		</Unit>

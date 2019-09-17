@@ -150,6 +150,33 @@ byteorder.c.s:
 	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/byteorder.c.s
 .PHONY : byteorder.c.s
 
+homework3.3.o: homework3.3.c.o
+
+.PHONY : homework3.3.o
+
+# target to build an object file
+homework3.3.c.o:
+	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/homework3.3.c.o
+.PHONY : homework3.3.c.o
+
+homework3.3.i: homework3.3.c.i
+
+.PHONY : homework3.3.i
+
+# target to preprocess a source file
+homework3.3.c.i:
+	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/homework3.3.c.i
+.PHONY : homework3.3.c.i
+
+homework3.3.s: homework3.3.c.s
+
+.PHONY : homework3.3.s
+
+# target to generate assembly for a file
+homework3.3.c.s:
+	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/homework3.3.c.s
+.PHONY : homework3.3.c.s
+
 readline1.o: readline1.c.o
 
 .PHONY : readline1.o
@@ -243,6 +270,9 @@ help:
 	@echo "... byteorder.o"
 	@echo "... byteorder.i"
 	@echo "... byteorder.s"
+	@echo "... homework3.3.o"
+	@echo "... homework3.3.i"
+	@echo "... homework3.3.s"
 	@echo "... readline1.o"
 	@echo "... readline1.i"
 	@echo "... readline1.s"
