@@ -1,4 +1,4 @@
-The system is: Darwin - 18.6.0 - x86_64
+The system is: Darwin - 18.7.0 - x86_64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /Library/Developer/CommandLineTools/usr/bin/cc 
 Build flags: 
@@ -10,35 +10,38 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is AppleClang, found in "/Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out"
+The C compiler identification is AppleClang, found in "/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_0e14e/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_0e14e.dir/build.make CMakeFiles/cmTC_0e14e.dir/build
-Building C object CMakeFiles/cmTC_0e14e.dir/testCCompiler.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_0e14e.dir/testCCompiler.c.o   -c /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_0e14e
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0e14e.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_0e14e.dir/testCCompiler.c.o  -o cmTC_0e14e 
+Run Build Command:"/usr/local/bin/gmake" "cmTC_dd498/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_dd498.dir/build.make CMakeFiles/cmTC_dd498.dir/build
+gmake[1]: Entering directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_dd498.dir/testCCompiler.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_dd498.dir/testCCompiler.c.o   -c /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_dd498
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dd498.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_dd498.dir/testCCompiler.c.o  -o cmTC_dd498 
+gmake[1]: Leaving directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_8d90a/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_8d90a.dir/build.make CMakeFiles/cmTC_8d90a.dir/build
-Building C object CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o   -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_8d90a
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d90a.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o  -o cmTC_8d90a 
+Run Build Command:"/usr/local/bin/gmake" "cmTC_e9d44/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_e9d44.dir/build.make CMakeFiles/cmTC_e9d44.dir/build
+gmake[1]: Entering directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o   -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_e9d44
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e9d44.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o  -o cmTC_e9d44 
 Apple LLVM version 10.0.1 (clang-1001.0.46.4)
-Target: x86_64-apple-darwin18.6.0
+Target: x86_64-apple-darwin18.7.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
- "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.14.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -o cmTC_8d90a -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/lib/darwin/libclang_rt.osx.a
+ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.14.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -o cmTC_e9d44 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/lib/darwin/libclang_rt.osx.a
 @(#)PROGRAM:ld  PROJECT:ld64-450.3
 BUILD 18:16:53 Apr  5 2019
 configured to support archs: armv6 armv7 armv7s arm64 arm64e arm64_32 i386 x86_64 x86_64h armv6m armv7k armv7m armv7em
@@ -46,24 +49,26 @@ Library search paths:
 	/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/lib
 Framework search paths:
 	/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/
+gmake[1]: Leaving directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_8d90a/fast"]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_8d90a.dir/build.make CMakeFiles/cmTC_8d90a.dir/build]
-  ignore line: [Building C object CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o   -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_8d90a]
-  ignore line: [/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d90a.dir/link.txt --verbose=1]
-  ignore line: [/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o  -o cmTC_8d90a ]
+  ignore line: [Run Build Command:"/usr/local/bin/gmake" "cmTC_e9d44/fast"]
+  ignore line: [/usr/local/bin/gmake -f CMakeFiles/cmTC_e9d44.dir/build.make CMakeFiles/cmTC_e9d44.dir/build]
+  ignore line: [gmake[1]: Entering directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o   -c /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_e9d44]
+  ignore line: [/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e9d44.dir/link.txt --verbose=1]
+  ignore line: [/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  -v -Wl,-v CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o  -o cmTC_e9d44 ]
   ignore line: [Apple LLVM version 10.0.1 (clang-1001.0.46.4)]
-  ignore line: [Target: x86_64-apple-darwin18.6.0]
+  ignore line: [Target: x86_64-apple-darwin18.7.0]
   ignore line: [Thread model: posix]
   ignore line: [InstalledDir: /Library/Developer/CommandLineTools/usr/bin]
-  link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.14.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -o cmTC_8d90a -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/lib/darwin/libclang_rt.osx.a]
+  link line: [ "/Library/Developer/CommandLineTools/usr/bin/ld" -demangle -lto_library /Library/Developer/CommandLineTools/usr/lib/libLTO.dylib -dynamic -arch x86_64 -macosx_version_min 10.14.0 -syslibroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -o cmTC_e9d44 -search_paths_first -headerpad_max_install_names -v CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o -lSystem /Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/lib/darwin/libclang_rt.osx.a]
     arg [/Library/Developer/CommandLineTools/usr/bin/ld] ==> ignore
     arg [-demangle] ==> ignore
     arg [-lto_library] ==> ignore, skip following value
@@ -76,11 +81,11 @@ Parsed C implicit link information from above output:
     arg [-syslibroot] ==> ignore
     arg [/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_8d90a] ==> ignore
+    arg [cmTC_e9d44] ==> ignore
     arg [-search_paths_first] ==> ignore
     arg [-headerpad_max_install_names] ==> ignore
     arg [-v] ==> ignore
-    arg [CMakeFiles/cmTC_8d90a.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_e9d44.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lSystem] ==> lib [System]
     arg [/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/lib/darwin/libclang_rt.osx.a] ==> lib [/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/lib/darwin/libclang_rt.osx.a]
   Library search paths: [;/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/lib]
@@ -97,15 +102,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_a836e/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_a836e.dir/build.make CMakeFiles/cmTC_a836e.dir/build
-Building C object CMakeFiles/cmTC_a836e.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c11 -o CMakeFiles/cmTC_a836e.dir/feature_tests.c.o   -c /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_a836e
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a836e.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_a836e.dir/feature_tests.c.o  -o cmTC_a836e 
+Run Build Command:"/usr/local/bin/gmake" "cmTC_edd3d/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_edd3d.dir/build.make CMakeFiles/cmTC_edd3d.dir/build
+gmake[1]: Entering directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_edd3d.dir/feature_tests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c11 -o CMakeFiles/cmTC_edd3d.dir/feature_tests.c.o   -c /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_edd3d
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_edd3d.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_edd3d.dir/feature_tests.c.o  -o cmTC_edd3d 
+gmake[1]: Leaving directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -115,15 +122,17 @@ Linking C executable cmTC_a836e
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9bd4c/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_9bd4c.dir/build.make CMakeFiles/cmTC_9bd4c.dir/build
-Building C object CMakeFiles/cmTC_9bd4c.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c99 -o CMakeFiles/cmTC_9bd4c.dir/feature_tests.c.o   -c /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_9bd4c
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9bd4c.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_9bd4c.dir/feature_tests.c.o  -o cmTC_9bd4c 
+Run Build Command:"/usr/local/bin/gmake" "cmTC_8da56/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_8da56.dir/build.make CMakeFiles/cmTC_8da56.dir/build
+gmake[1]: Entering directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8da56.dir/feature_tests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c99 -o CMakeFiles/cmTC_8da56.dir/feature_tests.c.o   -c /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_8da56
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8da56.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_8da56.dir/feature_tests.c.o  -o cmTC_8da56 
+gmake[1]: Leaving directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -133,15 +142,17 @@ Linking C executable cmTC_9bd4c
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_1c2d1/fast"
-/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_1c2d1.dir/build.make CMakeFiles/cmTC_1c2d1.dir/build
-Building C object CMakeFiles/cmTC_1c2d1.dir/feature_tests.c.o
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c90 -o CMakeFiles/cmTC_1c2d1.dir/feature_tests.c.o   -c /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_1c2d1
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1c2d1.dir/link.txt --verbose=1
-/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_1c2d1.dir/feature_tests.c.o  -o cmTC_1c2d1 
+Run Build Command:"/usr/local/bin/gmake" "cmTC_05acb/fast"
+/usr/local/bin/gmake -f CMakeFiles/cmTC_05acb.dir/build.make CMakeFiles/cmTC_05acb.dir/build
+gmake[1]: Entering directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_05acb.dir/feature_tests.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -std=c90 -o CMakeFiles/cmTC_05acb.dir/feature_tests.c.o   -c /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_05acb
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E cmake_link_script CMakeFiles/cmTC_05acb.dir/link.txt --verbose=1
+/Library/Developer/CommandLineTools/usr/bin/cc   -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names   CMakeFiles/cmTC_05acb.dir/feature_tests.c.o  -o cmTC_05acb 
+gmake[1]: Leaving directory '/Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes

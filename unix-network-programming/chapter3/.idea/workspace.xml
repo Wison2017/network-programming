@@ -13,6 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="30921c52-1d74-4182-8584-87c72d8bd88c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/homework3.3.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
@@ -30,6 +31,27 @@
       <change beforePath="$PROJECT_DIR$/readline1.c" beforeDir="false" afterPath="$PROJECT_DIR$/readline1.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readn.c" beforeDir="false" afterPath="$PROJECT_DIR$/readn.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/writen.c" beforeDir="false" afterPath="$PROJECT_DIR$/writen.c" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/readline.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/byteorder.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chapter3.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/chapter3.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/chapter3.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,6 +62,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
@@ -55,6 +78,17 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="9" lean-forward="true" selection-start-column="2" selection-end-line="32" selection-end-column="3" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/byteorder.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
             </state>
           </provider>
         </entry>
@@ -71,17 +105,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/netinet/in.h">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="186">
               <caret line="301" column="8" selection-start-line="301" selection-start-column="8" selection-end-line="301" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/_types/_in_addr_t.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="30" column="18" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="18" />
+=======
+            <state relative-caret-position="361">
+              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -89,8 +118,46 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readline1.c">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readline.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/_types/_in_addr_t.h">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="415">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="18" />
+=======
+            <state relative-caret-position="570">
+              <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readline1.c">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="228">
               <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+=======
+            <state relative-caret-position="570">
+              <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
             </state>
           </provider>
         </entry>
@@ -98,8 +165,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readn.c">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="247">
               <caret line="13" column="15" lean-forward="true" selection-end-line="26" />
+=======
+            <state relative-caret-position="1767">
+              <caret line="93" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="e#3947#4017#0" expanded="true" />
+              </folding>
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
             </state>
           </provider>
         </entry>
@@ -107,8 +182,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/writen.c">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="209">
               <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+=======
+            <state relative-caret-position="2223">
+              <caret line="117" column="2" selection-start-line="117" selection-start-column="2" selection-end-line="117" selection-end-column="2" />
+              <folding>
+                <element signature="e#343#395#0" expanded="true" />
+                <element signature="e#744#762#0" expanded="true" />
+                <element signature="e#2991#3071#0" expanded="true" />
+                <element signature="e#3159#3217#0" expanded="true" />
+                <element signature="e#6794#6823#0" expanded="true" />
+                <element signature="e#6865#7072#0" expanded="true" />
+                <element signature="e#7110#7267#0" expanded="true" />
+                <element signature="e#10657#10818#0" expanded="true" />
+                <element signature="e#10858#10936#0" expanded="true" />
+                <element signature="e#10976#11007#0" expanded="true" />
+                <element signature="e#11045#11072#0" expanded="true" />
+                <element signature="e#11115#11294#0" expanded="true" />
+                <element signature="e#11332#11434#0" expanded="true" />
+                <element signature="e#11472#11520#0" expanded="true" />
+                <element signature="e#11618#11715#0" expanded="true" />
+                <element signature="e#11754#11776#0" expanded="true" />
+                <element signature="e#11813#11863#0" expanded="true" />
+              </folding>
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
             </state>
           </provider>
         </entry>
@@ -128,15 +227,27 @@
         <option value="$PROJECT_DIR$/readline1.c" />
         <option value="$PROJECT_DIR$/readn.c" />
         <option value="$PROJECT_DIR$/writen.c" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/byteorder.c" />
         <option value="$PROJECT_DIR$/homework3.3.c" />
+=======
+        <option value="$PROJECT_DIR$/readline1.c" />
+        <option value="$PROJECT_DIR$/readline.c" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
       </list>
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+=======
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1422" />
+    <option name="height" value="732" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -156,10 +267,6 @@
               <item name="chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="chapter3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -169,6 +276,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -202,11 +310,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568640715727</updated>
+<<<<<<< HEAD
       <workItem from="1568640717169" duration="4937000" />
+=======
+      <workItem from="1568640717169" duration="3319000" />
+      <workItem from="1568679312499" duration="1009000" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="4937000" />
   </component>
   <component name="ToolWindowManager">
@@ -221,6 +335,16 @@
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+=======
+    <option name="totallyTimeSpent" value="4328000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1422" height="732" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25652173" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28674698" />
@@ -228,62 +352,81 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32953367" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/lib/config.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/unp.h">
+=======
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3502">
-          <caret line="117" column="2" selection-start-line="117" selection-start-column="2" selection-end-line="117" selection-end-column="2" />
+        <state relative-caret-position="114">
+          <caret line="6" column="84" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/byteorder.c">
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
           <folding>
-            <element signature="e#343#395#0" expanded="true" />
-            <element signature="e#744#762#0" expanded="true" />
-            <element signature="e#2991#3071#0" expanded="true" />
-            <element signature="e#3159#3217#0" expanded="true" />
-            <element signature="e#6794#6823#0" expanded="true" />
-            <element signature="e#6865#7072#0" expanded="true" />
-            <element signature="e#7110#7267#0" expanded="true" />
-            <element signature="e#10657#10818#0" expanded="true" />
-            <element signature="e#10858#10936#0" expanded="true" />
-            <element signature="e#10976#11007#0" expanded="true" />
-            <element signature="e#11045#11072#0" expanded="true" />
-            <element signature="e#11115#11294#0" expanded="true" />
-            <element signature="e#11332#11434#0" expanded="true" />
-            <element signature="e#11472#11520#0" expanded="true" />
-            <element signature="e#11618#11715#0" expanded="true" />
-            <element signature="e#11754#11776#0" expanded="true" />
-            <element signature="e#11813#11863#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/_types/_ssize_t.h">
+=======
+    <entry file="file://$PROJECT_DIR$/readn.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        <state relative-caret-position="437">
+          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/writen.c">
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/_types/_size_t.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
+        <state relative-caret-position="570">
           <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/sys/_types/_ssize_t.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/i386/_types.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
+        <state relative-caret-position="1767">
           <caret line="93" selection-start-line="93" selection-end-line="93" />
           <folding>
             <element signature="e#3947#4017#0" expanded="true" />
@@ -291,6 +434,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -330,11 +474,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
           <caret line="30" column="18" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="18" />
+=======
+    <entry file="file://$PROJECT_DIR$/lib/unp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="117" column="2" selection-start-line="117" selection-start-column="2" selection-end-line="117" selection-end-column="2" />
+          <folding>
+            <element signature="e#343#395#0" expanded="true" />
+            <element signature="e#744#762#0" expanded="true" />
+            <element signature="e#2991#3071#0" expanded="true" />
+            <element signature="e#3159#3217#0" expanded="true" />
+            <element signature="e#6794#6823#0" expanded="true" />
+            <element signature="e#6865#7072#0" expanded="true" />
+            <element signature="e#7110#7267#0" expanded="true" />
+            <element signature="e#10657#10818#0" expanded="true" />
+            <element signature="e#10858#10936#0" expanded="true" />
+            <element signature="e#10976#11007#0" expanded="true" />
+            <element signature="e#11045#11072#0" expanded="true" />
+            <element signature="e#11115#11294#0" expanded="true" />
+            <element signature="e#11332#11434#0" expanded="true" />
+            <element signature="e#11472#11520#0" expanded="true" />
+            <element signature="e#11618#11715#0" expanded="true" />
+            <element signature="e#11754#11776#0" expanded="true" />
+            <element signature="e#11813#11863#0" expanded="true" />
+          </folding>
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/writen.c">
+    <entry file="file://$PROJECT_DIR$/lib/config.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readline1.c">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="209">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
@@ -344,6 +517,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+=======
+        <state relative-caret-position="494">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readline.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+>>>>>>> f927bdf1ba45b556ad14b5f96215d05f9b7267d0
         </state>
       </provider>
     </entry>
