@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3
+CMAKE_SOURCE_DIR = /Users/wison/Desktop/网络编程/unix-network-programming/chapter3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/Desktop/temp/network-programming/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/unix-network-programming/chapter3/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -149,6 +149,33 @@ byteorder.s: byteorder.c.s
 byteorder.c.s:
 	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/byteorder.c.s
 .PHONY : byteorder.c.s
+
+daytimetcpcli.o: daytimetcpcli.c.o
+
+.PHONY : daytimetcpcli.o
+
+# target to build an object file
+daytimetcpcli.c.o:
+	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/daytimetcpcli.c.o
+.PHONY : daytimetcpcli.c.o
+
+daytimetcpcli.i: daytimetcpcli.c.i
+
+.PHONY : daytimetcpcli.i
+
+# target to preprocess a source file
+daytimetcpcli.c.i:
+	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/daytimetcpcli.c.i
+.PHONY : daytimetcpcli.c.i
+
+daytimetcpcli.s: daytimetcpcli.c.s
+
+.PHONY : daytimetcpcli.s
+
+# target to generate assembly for a file
+daytimetcpcli.c.s:
+	$(MAKE) -f CMakeFiles/chapter3.dir/build.make CMakeFiles/chapter3.dir/daytimetcpcli.c.s
+.PHONY : daytimetcpcli.c.s
 
 homework3.3.o: homework3.3.c.o
 
@@ -270,6 +297,9 @@ help:
 	@echo "... byteorder.o"
 	@echo "... byteorder.i"
 	@echo "... byteorder.s"
+	@echo "... daytimetcpcli.o"
+	@echo "... daytimetcpcli.i"
+	@echo "... daytimetcpcli.s"
 	@echo "... homework3.3.o"
 	@echo "... homework3.3.i"
 	@echo "... homework3.3.s"
