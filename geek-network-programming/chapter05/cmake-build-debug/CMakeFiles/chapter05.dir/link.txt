@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/chapter05.dir/server.c.o CMakeFiles/chapter05.dir/lib/read.c.o CMakeFiles/chapter05.dir/client.c.o CMakeFiles/chapter05.dir/lib/send.c.o CMakeFiles/chapter05.dir/lib/log.c.o  -o chapter05 

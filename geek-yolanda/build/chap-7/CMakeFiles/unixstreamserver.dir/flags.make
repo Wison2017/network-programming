@@ -6,5 +6,5 @@ C_FLAGS =  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk
 
 C_DEFINES = 
 
-C_INCLUDES = -I/Users/wison/Desktop/网络编程/yolanda 
+C_INCLUDES = -I/Users/wison/Desktop/网络编程/geek-yolanda 
 
