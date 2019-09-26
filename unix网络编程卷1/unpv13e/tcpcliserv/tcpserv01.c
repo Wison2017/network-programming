@@ -13,21 +13,23 @@ main(int argc, char **argv)
 	bzero(&servaddr, sizeof(servaddr));
 	servaddr.sin_family      = AF_INET;
 	servaddr.sin_addr.s_addr = htonl(INADDR_ANY);
-	servaddr.sin_port        = htons(SERV_PORT);
+	servaddr.sin_port        = htons(13);
 
 	Bind(listenfd, (SA *) &servaddr, sizeof(servaddr));
 
 	Listen(listenfd, LISTENQ);
 
 	for ( ; ; ) {
-		clilen = sizeof(cliaddr);
+		//clilen = sizeof(cliaddr);
 		connfd = Accept(listenfd, (SA *) &cliaddr, &clilen);
 
-		if ( (childpid = Fork()) == 0) {	/* child process */
-			Close(listenfd);	/* close listening socket */
-			str_echo(connfd);	/* process the request */
-			exit(0);
-		}
+		//if ( (childpid = Fork()) == 0) {	/* child process */
+		//	Close(listenfd);	/* close listening socket */
+	//		str_echo(connfd);	/* process the request */
+	//		exit(0);
+	//	}
+	
+		str_echo(connfd);
 		Close(connfd);			/* parent closes connected socket */
 	}
 }
