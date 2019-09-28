@@ -62,11 +62,11 @@ int main(int argc, char **argv) {
 
         sleep(5);
 
-        int write_nc = send(connfd, send_line, strlen(send_line), 0);
-        printf("send bytes: %zu \n", write_nc);
+        int write_nc = send(connfd, send_line, strlen(send_line), 0); 
         if (write_nc < 0) {
             error(1, errno, "error write");
         }
+       	printf("send bytes: %zu \n", write_nc);
     }
 
 }

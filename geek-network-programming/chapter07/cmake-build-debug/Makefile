@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07
+CMAKE_SOURCE_DIR = /Users/wison/Desktop/网络编程/geek-network-programming/chapter07
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,32 +123,113 @@ chapter07/fast:
 	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/build
 .PHONY : chapter07/fast
 
-main.o: main.c.o
+local_data_client.o: local_data_client.c.o
 
-.PHONY : main.o
+.PHONY : local_data_client.o
 
 # target to build an object file
-main.c.o:
-	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/main.c.o
-.PHONY : main.c.o
+local_data_client.c.o:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_data_client.c.o
+.PHONY : local_data_client.c.o
 
-main.i: main.c.i
+local_data_client.i: local_data_client.c.i
 
-.PHONY : main.i
+.PHONY : local_data_client.i
 
 # target to preprocess a source file
-main.c.i:
-	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/main.c.i
-.PHONY : main.c.i
+local_data_client.c.i:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_data_client.c.i
+.PHONY : local_data_client.c.i
 
-main.s: main.c.s
+local_data_client.s: local_data_client.c.s
 
-.PHONY : main.s
+.PHONY : local_data_client.s
 
 # target to generate assembly for a file
-main.c.s:
-	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/main.c.s
-.PHONY : main.c.s
+local_data_client.c.s:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_data_client.c.s
+.PHONY : local_data_client.c.s
+
+local_data_server.o: local_data_server.c.o
+
+.PHONY : local_data_server.o
+
+# target to build an object file
+local_data_server.c.o:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_data_server.c.o
+.PHONY : local_data_server.c.o
+
+local_data_server.i: local_data_server.c.i
+
+.PHONY : local_data_server.i
+
+# target to preprocess a source file
+local_data_server.c.i:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_data_server.c.i
+.PHONY : local_data_server.c.i
+
+local_data_server.s: local_data_server.c.s
+
+.PHONY : local_data_server.s
+
+# target to generate assembly for a file
+local_data_server.c.s:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_data_server.c.s
+.PHONY : local_data_server.c.s
+
+local_stream_client.o: local_stream_client.c.o
+
+.PHONY : local_stream_client.o
+
+# target to build an object file
+local_stream_client.c.o:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_stream_client.c.o
+.PHONY : local_stream_client.c.o
+
+local_stream_client.i: local_stream_client.c.i
+
+.PHONY : local_stream_client.i
+
+# target to preprocess a source file
+local_stream_client.c.i:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_stream_client.c.i
+.PHONY : local_stream_client.c.i
+
+local_stream_client.s: local_stream_client.c.s
+
+.PHONY : local_stream_client.s
+
+# target to generate assembly for a file
+local_stream_client.c.s:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_stream_client.c.s
+.PHONY : local_stream_client.c.s
+
+local_stream_server.o: local_stream_server.c.o
+
+.PHONY : local_stream_server.o
+
+# target to build an object file
+local_stream_server.c.o:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_stream_server.c.o
+.PHONY : local_stream_server.c.o
+
+local_stream_server.i: local_stream_server.c.i
+
+.PHONY : local_stream_server.i
+
+# target to preprocess a source file
+local_stream_server.c.i:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_stream_server.c.i
+.PHONY : local_stream_server.c.i
+
+local_stream_server.s: local_stream_server.c.s
+
+.PHONY : local_stream_server.s
+
+# target to generate assembly for a file
+local_stream_server.c.s:
+	$(MAKE) -f CMakeFiles/chapter07.dir/build.make CMakeFiles/chapter07.dir/local_stream_server.c.s
+.PHONY : local_stream_server.c.s
 
 # Help Target
 help:
@@ -159,9 +240,18 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... chapter07"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... local_data_client.o"
+	@echo "... local_data_client.i"
+	@echo "... local_data_client.s"
+	@echo "... local_data_server.o"
+	@echo "... local_data_server.i"
+	@echo "... local_data_server.s"
+	@echo "... local_stream_client.o"
+	@echo "... local_stream_client.i"
+	@echo "... local_stream_client.s"
+	@echo "... local_stream_server.o"
+	@echo "... local_stream_server.i"
+	@echo "... local_stream_server.s"
 .PHONY : help
 
 

@@ -4,7 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/main.c" "/Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/chapter07.dir/main.c.o"
+  "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_data_client.c" "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/chapter07.dir/local_data_client.c.o"
+  "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_data_server.c" "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/chapter07.dir/local_data_server.c.o"
+  "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_stream_client.c" "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/chapter07.dir/local_stream_client.c.o"
+  "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_stream_server.c" "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/chapter07.dir/local_stream_server.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
