@@ -1,4 +1,4 @@
-# Install script for directory: /Users/wison/Desktop/网络编程/geek-yolanda/chap-17
+# Install script for directory: /Users/Mac-78/qqq/net/network-programming/geek-yolanda/chap-17
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

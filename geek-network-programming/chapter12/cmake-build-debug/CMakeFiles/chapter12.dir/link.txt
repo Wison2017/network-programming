@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/chapter12.dir/tcpclient_keep_alive.c.o CMakeFiles/chapter12.dir/tcpserver_keep_alive.c.o  -o chapter12 

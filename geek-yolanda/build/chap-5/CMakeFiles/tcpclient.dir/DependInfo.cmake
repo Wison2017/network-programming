@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/wison/Desktop/网络编程/geek-yolanda/chap-5/tcpclient.c" "/Users/wison/Desktop/网络编程/geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/tcpclient.c.o"
+  "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/chap-5/tcpclient.c" "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/tcpclient.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 
@@ -15,7 +15,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/wison/Desktop/网络编程/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/DependInfo.cmake"
+  "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

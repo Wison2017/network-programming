@@ -48,10 +48,10 @@ RM = /usr/local/Cellar/cmake/3.14.5/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/wison/Desktop/网络编程/geek-yolanda
+CMAKE_SOURCE_DIR = /Users/Mac-78/qqq/net/network-programming/geek-yolanda
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/geek-yolanda/build
+CMAKE_BINARY_DIR = /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,9 +126,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="chapter14" targetName="chapter14" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c620a75-a893-40ba-a131-0365db21aaf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../chapter12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter12/tcpserver_keep_alive.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udpconnect_client.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/3.14.5/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceclient.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/CMakeFiles/graceserver.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-11/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingclient.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/CMakeFiles/pingserver.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-12/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/CMakeFiles/batchwrite.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-13/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/CMakeFiles/addressused02.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-15/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamclient.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/CMakeFiles/streamserver.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-16/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client01.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_client02.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server01.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/CMakeFiles/reliable_server02.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-17/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/bufferclient.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer01.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer02.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/CMakeFiles/samplebuffer03.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-18/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/CMakeFiles/make_socket.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-4/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpclient.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/CMakeFiles/tcpserver.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-5/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpclient.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/CMakeFiles/udpserver.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-6/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataclient.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixdataserver.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamclient.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/CMakeFiles/unixstreamserver.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/chap-7/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/CMakeFiles/yolanda.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/build/lib/libyolanda.a" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/build/lib/libyolanda.a" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="103" selection-start-line="6" selection-start-column="103" selection-end-line="6" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udpconnect_server.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/udpconnect_client.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1007">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="e#88#142#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/common.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/message_objecte.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/read.c">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/send.c">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/log.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="8" selection-start-line="8" selection-end-line="26" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/udpconnect_server.c" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/udpconnect_client.c" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chapter14" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chapter14" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chapter14" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="chapter14" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="127.0.0.1 127.0.0.2" PASS_PARENT_ENVS_2="true" PROJECT_NAME="chapter14" TARGET_NAME="chapter14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="chapter14" RUN_TARGET_NAME="chapter14">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c620a75-a893-40ba-a131-0365db21aaf2" name="Default Changelist" comment="" />
+      <created>1569739428648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569739428648</updated>
+      <workItem from="1569739430651" duration="3836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3836000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CMake" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/send.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="103" selection-start-line="6" selection-start-column="103" selection-end-line="6" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/read.c">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/message_objecte.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/common.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/log.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="8" selection-start-line="8" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udpconnect_server.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udpconnect_client.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#88#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

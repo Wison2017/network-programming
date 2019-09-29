@@ -48,10 +48,10 @@ RM = /usr/local/Cellar/cmake/3.14.5/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/wison/Desktop/网络编程/geek-yolanda
+CMAKE_SOURCE_DIR = /Users/Mac-78/qqq/net/network-programming/geek-yolanda
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/geek-yolanda/build
+CMAKE_BINARY_DIR = /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ install/local/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles /Users/wison/Desktop/网络编程/geek-yolanda/build/chap-11/CMakeFiles/progress.marks
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles 0
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/chap-11/CMakeFiles/progress.marks
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/clean
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/preinstall
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/preinstall
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 chap-11/CMakeFiles/graceserver.dir/rule:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/CMakeFiles/graceserver.dir/rule
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/CMakeFiles/graceserver.dir/rule
 .PHONY : chap-11/CMakeFiles/graceserver.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ graceserver: chap-11/CMakeFiles/graceserver.dir/rule
 
 # fast build rule for target.
 graceserver/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceserver.dir/build.make chap-11/CMakeFiles/graceserver.dir/build
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceserver.dir/build.make chap-11/CMakeFiles/graceserver.dir/build
 .PHONY : graceserver/fast
 
 # Convenience name for target.
 chap-11/CMakeFiles/graceclient.dir/rule:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/CMakeFiles/graceclient.dir/rule
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-11/CMakeFiles/graceclient.dir/rule
 .PHONY : chap-11/CMakeFiles/graceclient.dir/rule
 
 # Convenience name for target.
@@ -183,7 +183,7 @@ graceclient: chap-11/CMakeFiles/graceclient.dir/rule
 
 # fast build rule for target.
 graceclient/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceclient.dir/build.make chap-11/CMakeFiles/graceclient.dir/build
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceclient.dir/build.make chap-11/CMakeFiles/graceclient.dir/build
 .PHONY : graceclient/fast
 
 graceclient.o: graceclient.c.o
@@ -192,7 +192,7 @@ graceclient.o: graceclient.c.o
 
 # target to build an object file
 graceclient.c.o:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceclient.dir/build.make chap-11/CMakeFiles/graceclient.dir/graceclient.c.o
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceclient.dir/build.make chap-11/CMakeFiles/graceclient.dir/graceclient.c.o
 .PHONY : graceclient.c.o
 
 graceclient.i: graceclient.c.i
@@ -201,7 +201,7 @@ graceclient.i: graceclient.c.i
 
 # target to preprocess a source file
 graceclient.c.i:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceclient.dir/build.make chap-11/CMakeFiles/graceclient.dir/graceclient.c.i
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceclient.dir/build.make chap-11/CMakeFiles/graceclient.dir/graceclient.c.i
 .PHONY : graceclient.c.i
 
 graceclient.s: graceclient.c.s
@@ -210,7 +210,7 @@ graceclient.s: graceclient.c.s
 
 # target to generate assembly for a file
 graceclient.c.s:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceclient.dir/build.make chap-11/CMakeFiles/graceclient.dir/graceclient.c.s
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceclient.dir/build.make chap-11/CMakeFiles/graceclient.dir/graceclient.c.s
 .PHONY : graceclient.c.s
 
 graceserver.o: graceserver.c.o
@@ -219,7 +219,7 @@ graceserver.o: graceserver.c.o
 
 # target to build an object file
 graceserver.c.o:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceserver.dir/build.make chap-11/CMakeFiles/graceserver.dir/graceserver.c.o
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceserver.dir/build.make chap-11/CMakeFiles/graceserver.dir/graceserver.c.o
 .PHONY : graceserver.c.o
 
 graceserver.i: graceserver.c.i
@@ -228,7 +228,7 @@ graceserver.i: graceserver.c.i
 
 # target to preprocess a source file
 graceserver.c.i:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceserver.dir/build.make chap-11/CMakeFiles/graceserver.dir/graceserver.c.i
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceserver.dir/build.make chap-11/CMakeFiles/graceserver.dir/graceserver.c.i
 .PHONY : graceserver.c.i
 
 graceserver.s: graceserver.c.s
@@ -237,7 +237,7 @@ graceserver.s: graceserver.c.s
 
 # target to generate assembly for a file
 graceserver.c.s:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceserver.dir/build.make chap-11/CMakeFiles/graceserver.dir/graceserver.c.s
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-11/CMakeFiles/graceserver.dir/build.make chap-11/CMakeFiles/graceserver.dir/graceserver.c.s
 .PHONY : graceserver.c.s
 
 # Help Target
@@ -271,6 +271,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

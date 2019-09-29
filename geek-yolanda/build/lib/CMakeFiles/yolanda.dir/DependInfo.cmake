@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/wison/Desktop/网络编程/geek-yolanda/lib/log.c" "/Users/wison/Desktop/网络编程/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/log.c.o"
-  "/Users/wison/Desktop/网络编程/geek-yolanda/lib/read.c" "/Users/wison/Desktop/网络编程/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/read.c.o"
-  "/Users/wison/Desktop/网络编程/geek-yolanda/lib/sock_ntop.c" "/Users/wison/Desktop/网络编程/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/sock_ntop.c.o"
-  "/Users/wison/Desktop/网络编程/geek-yolanda/lib/tcp_client.c" "/Users/wison/Desktop/网络编程/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/tcp_client.c.o"
-  "/Users/wison/Desktop/网络编程/geek-yolanda/lib/tcp_server.c" "/Users/wison/Desktop/网络编程/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/tcp_server.c.o"
+  "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/lib/log.c" "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/log.c.o"
+  "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/lib/read.c" "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/read.c.o"
+  "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/lib/sock_ntop.c" "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/sock_ntop.c.o"
+  "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/lib/tcp_client.c" "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/tcp_client.c.o"
+  "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/lib/tcp_server.c" "/Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/lib/CMakeFiles/yolanda.dir/tcp_server.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

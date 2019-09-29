@@ -48,10 +48,10 @@ RM = /usr/local/Cellar/cmake/3.14.5/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/wison/Desktop/网络编程/geek-yolanda
+CMAKE_SOURCE_DIR = /Users/Mac-78/qqq/net/network-programming/geek-yolanda
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/geek-yolanda/build
+CMAKE_BINARY_DIR = /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles /Users/wison/Desktop/网络编程/geek-yolanda/build/chap-16/CMakeFiles/progress.marks
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles 0
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/chap-16/CMakeFiles/progress.marks
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/clean
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/preinstall
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/preinstall
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 chap-16/CMakeFiles/streamserver.dir/rule:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/CMakeFiles/streamserver.dir/rule
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/CMakeFiles/streamserver.dir/rule
 .PHONY : chap-16/CMakeFiles/streamserver.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ streamserver: chap-16/CMakeFiles/streamserver.dir/rule
 
 # fast build rule for target.
 streamserver/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamserver.dir/build.make chap-16/CMakeFiles/streamserver.dir/build
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamserver.dir/build.make chap-16/CMakeFiles/streamserver.dir/build
 .PHONY : streamserver/fast
 
 # Convenience name for target.
 chap-16/CMakeFiles/streamclient.dir/rule:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/CMakeFiles/streamclient.dir/rule
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-16/CMakeFiles/streamclient.dir/rule
 .PHONY : chap-16/CMakeFiles/streamclient.dir/rule
 
 # Convenience name for target.
@@ -183,7 +183,7 @@ streamclient: chap-16/CMakeFiles/streamclient.dir/rule
 
 # fast build rule for target.
 streamclient/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamclient.dir/build.make chap-16/CMakeFiles/streamclient.dir/build
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamclient.dir/build.make chap-16/CMakeFiles/streamclient.dir/build
 .PHONY : streamclient/fast
 
 streamclient.o: streamclient.c.o
@@ -192,7 +192,7 @@ streamclient.o: streamclient.c.o
 
 # target to build an object file
 streamclient.c.o:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamclient.dir/build.make chap-16/CMakeFiles/streamclient.dir/streamclient.c.o
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamclient.dir/build.make chap-16/CMakeFiles/streamclient.dir/streamclient.c.o
 .PHONY : streamclient.c.o
 
 streamclient.i: streamclient.c.i
@@ -201,7 +201,7 @@ streamclient.i: streamclient.c.i
 
 # target to preprocess a source file
 streamclient.c.i:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamclient.dir/build.make chap-16/CMakeFiles/streamclient.dir/streamclient.c.i
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamclient.dir/build.make chap-16/CMakeFiles/streamclient.dir/streamclient.c.i
 .PHONY : streamclient.c.i
 
 streamclient.s: streamclient.c.s
@@ -210,7 +210,7 @@ streamclient.s: streamclient.c.s
 
 # target to generate assembly for a file
 streamclient.c.s:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamclient.dir/build.make chap-16/CMakeFiles/streamclient.dir/streamclient.c.s
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamclient.dir/build.make chap-16/CMakeFiles/streamclient.dir/streamclient.c.s
 .PHONY : streamclient.c.s
 
 streamserver.o: streamserver.c.o
@@ -219,7 +219,7 @@ streamserver.o: streamserver.c.o
 
 # target to build an object file
 streamserver.c.o:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamserver.dir/build.make chap-16/CMakeFiles/streamserver.dir/streamserver.c.o
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamserver.dir/build.make chap-16/CMakeFiles/streamserver.dir/streamserver.c.o
 .PHONY : streamserver.c.o
 
 streamserver.i: streamserver.c.i
@@ -228,7 +228,7 @@ streamserver.i: streamserver.c.i
 
 # target to preprocess a source file
 streamserver.c.i:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamserver.dir/build.make chap-16/CMakeFiles/streamserver.dir/streamserver.c.i
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamserver.dir/build.make chap-16/CMakeFiles/streamserver.dir/streamserver.c.i
 .PHONY : streamserver.c.i
 
 streamserver.s: streamserver.c.s
@@ -237,7 +237,7 @@ streamserver.s: streamserver.c.s
 
 # target to generate assembly for a file
 streamserver.c.s:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamserver.dir/build.make chap-16/CMakeFiles/streamserver.dir/streamserver.c.s
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-16/CMakeFiles/streamserver.dir/build.make chap-16/CMakeFiles/streamserver.dir/streamserver.c.s
 .PHONY : streamserver.c.s
 
 # Help Target
@@ -271,6 +271,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

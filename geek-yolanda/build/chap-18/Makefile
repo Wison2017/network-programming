@@ -48,10 +48,10 @@ RM = /usr/local/Cellar/cmake/3.14.5/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/wison/Desktop/网络编程/geek-yolanda
+CMAKE_SOURCE_DIR = /Users/Mac-78/qqq/net/network-programming/geek-yolanda
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/geek-yolanda/build
+CMAKE_BINARY_DIR = /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ install/local/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles /Users/wison/Desktop/网络编程/geek-yolanda/build/chap-18/CMakeFiles/progress.marks
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/wison/Desktop/网络编程/geek-yolanda/build/CMakeFiles 0
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/chap-18/CMakeFiles/progress.marks
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/clean
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/preinstall
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/preinstall
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 chap-18/CMakeFiles/samplebuffer02.dir/rule:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/CMakeFiles/samplebuffer02.dir/rule
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/CMakeFiles/samplebuffer02.dir/rule
 .PHONY : chap-18/CMakeFiles/samplebuffer02.dir/rule
 
 # Convenience name for target.
@@ -168,12 +168,12 @@ samplebuffer02: chap-18/CMakeFiles/samplebuffer02.dir/rule
 
 # fast build rule for target.
 samplebuffer02/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer02.dir/build.make chap-18/CMakeFiles/samplebuffer02.dir/build
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer02.dir/build.make chap-18/CMakeFiles/samplebuffer02.dir/build
 .PHONY : samplebuffer02/fast
 
 # Convenience name for target.
 chap-18/CMakeFiles/samplebuffer01.dir/rule:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/CMakeFiles/samplebuffer01.dir/rule
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/CMakeFiles/samplebuffer01.dir/rule
 .PHONY : chap-18/CMakeFiles/samplebuffer01.dir/rule
 
 # Convenience name for target.
@@ -183,12 +183,12 @@ samplebuffer01: chap-18/CMakeFiles/samplebuffer01.dir/rule
 
 # fast build rule for target.
 samplebuffer01/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer01.dir/build.make chap-18/CMakeFiles/samplebuffer01.dir/build
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer01.dir/build.make chap-18/CMakeFiles/samplebuffer01.dir/build
 .PHONY : samplebuffer01/fast
 
 # Convenience name for target.
 chap-18/CMakeFiles/samplebuffer03.dir/rule:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/CMakeFiles/samplebuffer03.dir/rule
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/CMakeFiles/samplebuffer03.dir/rule
 .PHONY : chap-18/CMakeFiles/samplebuffer03.dir/rule
 
 # Convenience name for target.
@@ -198,12 +198,12 @@ samplebuffer03: chap-18/CMakeFiles/samplebuffer03.dir/rule
 
 # fast build rule for target.
 samplebuffer03/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer03.dir/build.make chap-18/CMakeFiles/samplebuffer03.dir/build
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer03.dir/build.make chap-18/CMakeFiles/samplebuffer03.dir/build
 .PHONY : samplebuffer03/fast
 
 # Convenience name for target.
 chap-18/CMakeFiles/bufferclient.dir/rule:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/CMakeFiles/bufferclient.dir/rule
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f CMakeFiles/Makefile2 chap-18/CMakeFiles/bufferclient.dir/rule
 .PHONY : chap-18/CMakeFiles/bufferclient.dir/rule
 
 # Convenience name for target.
@@ -213,7 +213,7 @@ bufferclient: chap-18/CMakeFiles/bufferclient.dir/rule
 
 # fast build rule for target.
 bufferclient/fast:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/bufferclient.dir/build.make chap-18/CMakeFiles/bufferclient.dir/build
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/bufferclient.dir/build.make chap-18/CMakeFiles/bufferclient.dir/build
 .PHONY : bufferclient/fast
 
 bufferclient.o: bufferclient.c.o
@@ -222,7 +222,7 @@ bufferclient.o: bufferclient.c.o
 
 # target to build an object file
 bufferclient.c.o:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/bufferclient.dir/build.make chap-18/CMakeFiles/bufferclient.dir/bufferclient.c.o
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/bufferclient.dir/build.make chap-18/CMakeFiles/bufferclient.dir/bufferclient.c.o
 .PHONY : bufferclient.c.o
 
 bufferclient.i: bufferclient.c.i
@@ -231,7 +231,7 @@ bufferclient.i: bufferclient.c.i
 
 # target to preprocess a source file
 bufferclient.c.i:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/bufferclient.dir/build.make chap-18/CMakeFiles/bufferclient.dir/bufferclient.c.i
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/bufferclient.dir/build.make chap-18/CMakeFiles/bufferclient.dir/bufferclient.c.i
 .PHONY : bufferclient.c.i
 
 bufferclient.s: bufferclient.c.s
@@ -240,7 +240,7 @@ bufferclient.s: bufferclient.c.s
 
 # target to generate assembly for a file
 bufferclient.c.s:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/bufferclient.dir/build.make chap-18/CMakeFiles/bufferclient.dir/bufferclient.c.s
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/bufferclient.dir/build.make chap-18/CMakeFiles/bufferclient.dir/bufferclient.c.s
 .PHONY : bufferclient.c.s
 
 samplebuffer01.o: samplebuffer01.c.o
@@ -249,7 +249,7 @@ samplebuffer01.o: samplebuffer01.c.o
 
 # target to build an object file
 samplebuffer01.c.o:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer01.dir/build.make chap-18/CMakeFiles/samplebuffer01.dir/samplebuffer01.c.o
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer01.dir/build.make chap-18/CMakeFiles/samplebuffer01.dir/samplebuffer01.c.o
 .PHONY : samplebuffer01.c.o
 
 samplebuffer01.i: samplebuffer01.c.i
@@ -258,7 +258,7 @@ samplebuffer01.i: samplebuffer01.c.i
 
 # target to preprocess a source file
 samplebuffer01.c.i:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer01.dir/build.make chap-18/CMakeFiles/samplebuffer01.dir/samplebuffer01.c.i
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer01.dir/build.make chap-18/CMakeFiles/samplebuffer01.dir/samplebuffer01.c.i
 .PHONY : samplebuffer01.c.i
 
 samplebuffer01.s: samplebuffer01.c.s
@@ -267,7 +267,7 @@ samplebuffer01.s: samplebuffer01.c.s
 
 # target to generate assembly for a file
 samplebuffer01.c.s:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer01.dir/build.make chap-18/CMakeFiles/samplebuffer01.dir/samplebuffer01.c.s
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer01.dir/build.make chap-18/CMakeFiles/samplebuffer01.dir/samplebuffer01.c.s
 .PHONY : samplebuffer01.c.s
 
 samplebuffer02.o: samplebuffer02.c.o
@@ -276,7 +276,7 @@ samplebuffer02.o: samplebuffer02.c.o
 
 # target to build an object file
 samplebuffer02.c.o:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer02.dir/build.make chap-18/CMakeFiles/samplebuffer02.dir/samplebuffer02.c.o
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer02.dir/build.make chap-18/CMakeFiles/samplebuffer02.dir/samplebuffer02.c.o
 .PHONY : samplebuffer02.c.o
 
 samplebuffer02.i: samplebuffer02.c.i
@@ -285,7 +285,7 @@ samplebuffer02.i: samplebuffer02.c.i
 
 # target to preprocess a source file
 samplebuffer02.c.i:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer02.dir/build.make chap-18/CMakeFiles/samplebuffer02.dir/samplebuffer02.c.i
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer02.dir/build.make chap-18/CMakeFiles/samplebuffer02.dir/samplebuffer02.c.i
 .PHONY : samplebuffer02.c.i
 
 samplebuffer02.s: samplebuffer02.c.s
@@ -294,7 +294,7 @@ samplebuffer02.s: samplebuffer02.c.s
 
 # target to generate assembly for a file
 samplebuffer02.c.s:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer02.dir/build.make chap-18/CMakeFiles/samplebuffer02.dir/samplebuffer02.c.s
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer02.dir/build.make chap-18/CMakeFiles/samplebuffer02.dir/samplebuffer02.c.s
 .PHONY : samplebuffer02.c.s
 
 samplebuffer03.o: samplebuffer03.c.o
@@ -303,7 +303,7 @@ samplebuffer03.o: samplebuffer03.c.o
 
 # target to build an object file
 samplebuffer03.c.o:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer03.dir/build.make chap-18/CMakeFiles/samplebuffer03.dir/samplebuffer03.c.o
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer03.dir/build.make chap-18/CMakeFiles/samplebuffer03.dir/samplebuffer03.c.o
 .PHONY : samplebuffer03.c.o
 
 samplebuffer03.i: samplebuffer03.c.i
@@ -312,7 +312,7 @@ samplebuffer03.i: samplebuffer03.c.i
 
 # target to preprocess a source file
 samplebuffer03.c.i:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer03.dir/build.make chap-18/CMakeFiles/samplebuffer03.dir/samplebuffer03.c.i
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer03.dir/build.make chap-18/CMakeFiles/samplebuffer03.dir/samplebuffer03.c.i
 .PHONY : samplebuffer03.c.i
 
 samplebuffer03.s: samplebuffer03.c.s
@@ -321,7 +321,7 @@ samplebuffer03.s: samplebuffer03.c.s
 
 # target to generate assembly for a file
 samplebuffer03.c.s:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer03.dir/build.make chap-18/CMakeFiles/samplebuffer03.dir/samplebuffer03.c.s
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(MAKE) -f chap-18/CMakeFiles/samplebuffer03.dir/build.make chap-18/CMakeFiles/samplebuffer03.dir/samplebuffer03.c.s
 .PHONY : samplebuffer03.c.s
 
 # Help Target
@@ -363,6 +363,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/wison/Desktop/网络编程/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/Mac-78/qqq/net/network-programming/geek-yolanda/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 
