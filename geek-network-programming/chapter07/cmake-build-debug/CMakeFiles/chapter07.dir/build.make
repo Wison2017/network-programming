@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07
+CMAKE_SOURCE_DIR = /Users/wison/Desktop/网络编程/geek-network-programming/chapter07
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/chapter07.dir/depend.make
@@ -57,30 +57,75 @@ include CMakeFiles/chapter07.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/chapter07.dir/flags.make
 
-CMakeFiles/chapter07.dir/main.c.o: CMakeFiles/chapter07.dir/flags.make
-CMakeFiles/chapter07.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/chapter07.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/chapter07.dir/main.c.o   -c /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/main.c
+CMakeFiles/chapter07.dir/local_stream_server.c.o: CMakeFiles/chapter07.dir/flags.make
+CMakeFiles/chapter07.dir/local_stream_server.c.o: ../local_stream_server.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/chapter07.dir/local_stream_server.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/chapter07.dir/local_stream_server.c.o   -c /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_stream_server.c
 
-CMakeFiles/chapter07.dir/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter07.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/main.c > CMakeFiles/chapter07.dir/main.c.i
+CMakeFiles/chapter07.dir/local_stream_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter07.dir/local_stream_server.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_stream_server.c > CMakeFiles/chapter07.dir/local_stream_server.c.i
 
-CMakeFiles/chapter07.dir/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter07.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/main.c -o CMakeFiles/chapter07.dir/main.c.s
+CMakeFiles/chapter07.dir/local_stream_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter07.dir/local_stream_server.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_stream_server.c -o CMakeFiles/chapter07.dir/local_stream_server.c.s
+
+CMakeFiles/chapter07.dir/local_stream_client.c.o: CMakeFiles/chapter07.dir/flags.make
+CMakeFiles/chapter07.dir/local_stream_client.c.o: ../local_stream_client.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/chapter07.dir/local_stream_client.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/chapter07.dir/local_stream_client.c.o   -c /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_stream_client.c
+
+CMakeFiles/chapter07.dir/local_stream_client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter07.dir/local_stream_client.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_stream_client.c > CMakeFiles/chapter07.dir/local_stream_client.c.i
+
+CMakeFiles/chapter07.dir/local_stream_client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter07.dir/local_stream_client.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_stream_client.c -o CMakeFiles/chapter07.dir/local_stream_client.c.s
+
+CMakeFiles/chapter07.dir/local_data_server.c.o: CMakeFiles/chapter07.dir/flags.make
+CMakeFiles/chapter07.dir/local_data_server.c.o: ../local_data_server.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/chapter07.dir/local_data_server.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/chapter07.dir/local_data_server.c.o   -c /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_data_server.c
+
+CMakeFiles/chapter07.dir/local_data_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter07.dir/local_data_server.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_data_server.c > CMakeFiles/chapter07.dir/local_data_server.c.i
+
+CMakeFiles/chapter07.dir/local_data_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter07.dir/local_data_server.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_data_server.c -o CMakeFiles/chapter07.dir/local_data_server.c.s
+
+CMakeFiles/chapter07.dir/local_data_client.c.o: CMakeFiles/chapter07.dir/flags.make
+CMakeFiles/chapter07.dir/local_data_client.c.o: ../local_data_client.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/chapter07.dir/local_data_client.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/chapter07.dir/local_data_client.c.o   -c /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_data_client.c
+
+CMakeFiles/chapter07.dir/local_data_client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/chapter07.dir/local_data_client.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_data_client.c > CMakeFiles/chapter07.dir/local_data_client.c.i
+
+CMakeFiles/chapter07.dir/local_data_client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/chapter07.dir/local_data_client.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/local_data_client.c -o CMakeFiles/chapter07.dir/local_data_client.c.s
 
 # Object files for target chapter07
 chapter07_OBJECTS = \
-"CMakeFiles/chapter07.dir/main.c.o"
+"CMakeFiles/chapter07.dir/local_stream_server.c.o" \
+"CMakeFiles/chapter07.dir/local_stream_client.c.o" \
+"CMakeFiles/chapter07.dir/local_data_server.c.o" \
+"CMakeFiles/chapter07.dir/local_data_client.c.o"
 
 # External object files for target chapter07
 chapter07_EXTERNAL_OBJECTS =
 
-chapter07: CMakeFiles/chapter07.dir/main.c.o
+chapter07: CMakeFiles/chapter07.dir/local_stream_server.c.o
+chapter07: CMakeFiles/chapter07.dir/local_stream_client.c.o
+chapter07: CMakeFiles/chapter07.dir/local_data_server.c.o
+chapter07: CMakeFiles/chapter07.dir/local_data_client.c.o
 chapter07: CMakeFiles/chapter07.dir/build.make
 chapter07: CMakeFiles/chapter07.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable chapter07"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable chapter07"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/chapter07.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +138,6 @@ CMakeFiles/chapter07.dir/clean:
 .PHONY : CMakeFiles/chapter07.dir/clean
 
 CMakeFiles/chapter07.dir/depend:
-	cd /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07 /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07 /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/chapter07.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/wison/Desktop/网络编程/geek-network-programming/chapter07 /Users/wison/Desktop/网络编程/geek-network-programming/chapter07 /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug /Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/CMakeFiles/chapter07.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/chapter07.dir/depend
 

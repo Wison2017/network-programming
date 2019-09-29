@@ -11,16 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85fa7888-4d09-415b-853e-f2fbf940d62f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../chapter04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/common.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/read.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/send.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../geek-yolanda/chap-5/tcpclient.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../geek-yolanda/chap-5/tcpclient.c" afterDir="false" />
-    </list>
+    <list default="true" id="85fa7888-4d09-415b-853e-f2fbf940d62f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,10 +142,10 @@
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="825" />
+    <option name="height" value="823" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -216,22 +207,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569506862284</updated>
-      <workItem from="1569506863501" duration="3952000" />
+      <workItem from="1569506863501" duration="4118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3952000" />
+    <option name="totallyTimeSpent" value="4118000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3287858" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32968536" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="CMake" />

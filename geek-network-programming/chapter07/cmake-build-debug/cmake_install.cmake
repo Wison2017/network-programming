@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07
+# Install script for directory: /Users/wison/Desktop/网络编程/geek-network-programming/chapter07
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Mac-78/qqq/net/network-programming/geek-network-programming/chapter07/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/wison/Desktop/网络编程/geek-network-programming/chapter07/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
